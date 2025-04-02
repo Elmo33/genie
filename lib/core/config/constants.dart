@@ -16,4 +16,9 @@ class AppConstants {
   // Replace this with actual authentication/user selection logic later
   static const int currentUserId = 1; // Example static user ID
   static const String currentUsername = "StaticUser"; // Example static username
+
+  // --- Test User ---
+  static const String testUsername = "testuser";
+  static const String? testUserEmail = "test@example.com";
+
 }
