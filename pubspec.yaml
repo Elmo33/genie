@@ -38,6 +38,18 @@ dependencies:
   shared_preferences: ^2.2.2
   uuid: ^4.0.0
 
+  # DI
+  get_it: ^7.7.0
+  injectable: ^2.5.0
+
+  # State Management
+  flutter_bloc: ^8.1.6
+  equatable: ^2.0.5
+
+  # Secure Storage
+  flutter_secure_storage: ^9.0.0
+  dio: ^5.8.0+1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -48,6 +60,10 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^5.0.0
+
+  # DI Code Generation
+  build_runner: ^2.4.11
+  injectable_generator: ^2.5.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

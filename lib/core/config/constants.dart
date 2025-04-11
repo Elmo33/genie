@@ -19,6 +19,6 @@ class AppConstants {
 
   // --- Test User ---
   static const String testUsername = "testuser";
-  static const String? testUserEmail = "test@example.com";
+  static const String testUserEmail = "test@example.com";
 
 }
